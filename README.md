@@ -12,5 +12,8 @@ As they are the most important parameters for health indication in babies before
 Healthcare providers measure fetal heart rate by the number of fetal (baby) heartbeats per minute (BPM) during pregnancy.
 This measurement helps healthcare providers determine the well-being of the fetus during prenatal visits or labor.
 
+## Presentation slides
+For more info about the project =>https://drive.google.com/drive/u/0/folders/1HPJL9h58NnHp2KyIBEAJy3mO9XryINgM
+
 ## Deployment
 ![Screenshot](https://github.com/rahmaabdelkader2/Fetal-health-recognition/blob/main/Website%20image/Module%201.jpg)
