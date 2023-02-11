@@ -2,7 +2,7 @@
 (This project is considered my final project at Ai intern for Samsung Innovation Campus)
 
 ## Brief about project
-Maternal mortality is unacceptably high. About 295 000 women died during and following pregnancy and childbirth in 2017. 
+Maternal mortality is unacceptably high. About 295 000 women died during and following pregnancy and childbirth in 2017,
 So what if I told you that we will be able to predict fetus health and prevent several deaths among mothers and their babies before and during labor?
 As reduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.
 
