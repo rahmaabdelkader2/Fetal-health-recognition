@@ -1,5 +1,5 @@
 # Fetal-health-recognition
-(This project considered my final project at Ai intern for Samsung Innovation Campus)
+(This project is considered my final project at Ai intern for Samsung Innovation Campus)
 
 ## Brief about project
 Maternal mortality is unacceptably high. About 295 000 women died during and following pregnancy and childbirth in 2017. 
